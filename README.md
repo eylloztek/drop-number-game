@@ -16,6 +16,8 @@ Drop Number Game is a fun and engaging puzzle game developed in Java, utilizing 
 
 **Game Over:** The game ends when there are no more moves left, meaning at least one of the columns is completely filled.
 
-![Alt text]([image link](https://github.com/eylloztek/drop-number-game/blob/master/image1.png))
-![Alt text]([image link](https://github.com/eylloztek/drop-number-game/blob/master/image2.png))
-![Alt text]([image link](https://github.com/eylloztek/drop-number-game/blob/master/image3.png))
+![Image 1](https://github.com/eylloztek/drop-number-game/blob/master/image1.png))
+
+![Image 2](https://github.com/eylloztek/drop-number-game/blob/master/image2.png))
+
+![Image 3](https://github.com/eylloztek/drop-number-game/blob/master/image3.png))
